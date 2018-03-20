@@ -1,0 +1,61 @@
+@font-face {
+    font-family: pacifico;
+    src: url(css/Pacifico-Regular.ttf);
+}
+
+@font-face {
+    font-family: rubik;
+    src: url(css/Rubik-Regular.ttf);
+}
+
+body {
+    padding-bottom: 100px;
+}
+
+.navbar-brand {
+    font-family: rubik, 'Helvetica', serif;
+}
+
+.icon-text:hover {
+    color: #FDB927;;
+    text-decoration:none;
+    cursor:pointer;
+}
+
+.icon-text {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: rubik, 'Helvetica', serif;
+}
+
+.jumbotron {
+    width: 100%;
+    background-image: url("imgs/sfHero.jpg") !important;
+    background-position: center;
+    background-size: cover;
+}
+
+.city-header {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    color: white;
+    text-shadow: 1px 1px 3px rgba(150, 150, 150, 1);
+}
+
+.hero-subtitle {
+    text-align: center;
+    font-style: italic;
+    font-size: 25px;
+    font-family: pacifico, 'Helvetica', serif;
+    color: white;
+    text-shadow: 1px 1px 3px rgba(150, 150, 150, 1);
+}
+
+.discover-header {
+    text-align: center;
+}
+
+.card-img-top {
+    width: 100%;
+}

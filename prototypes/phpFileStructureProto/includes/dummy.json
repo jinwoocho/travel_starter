@@ -1,0 +1,220 @@
+{
+  "userId": 1,
+  "itinId": 1,
+  "data": {
+    "content": {
+      "attribution": [{
+        "source_id": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Laugh%20Factory"
+      }],
+      "sections": [{
+        "body": "The <b>Laugh Factory</b> is a chain of comedy clubs in the United States. The chain is owned by Laugh Factory Inc® and founder and current Chief Executive Jamie Masada.",
+        "image": {
+          "attribution": {
+            "license_link": null,
+            "attribution_link": "https://commons.wikimedia.org/wiki/File:Laugh_Factory_at_Night.jpg",
+            "attribution_text": "Nickcedergren",
+            "license_text": "Public domain",
+            "format": "{attribution} / {license}"
+          },
+          "license": "Public domain",
+          "sizes": {
+            "medium": {
+              "url": "http://pic.triposo.com/ios/tripe_4/pic/Laugh_Factory.jpg",
+              "width": 548,
+              "bytes": 58128,
+              "height": 640
+            },
+            "thumbnail": {
+              "url": "http://pic.triposo.com/ios/tripe_4/thumb/Laugh_Factory.jpg",
+              "width": 164,
+              "bytes": 9762,
+              "height": 192
+            },
+            "original": {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Laugh_Factory_at_Night.jpg",
+              "width": 2650,
+              "bytes": 6297153,
+              "height": 3096
+            }
+          },
+          "owner": "Nickcedergren",
+          "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Laugh_Factory_at_Night.jpg",
+          "caption": "image",
+          "source_id": "wikipedia",
+          "owner_url": "https://commons.wikimedia.org/wiki/File:Laugh_Factory_at_Night.jpg"
+        },
+        "title": ""
+      }, {
+        "body": "Michael Richards went into a racist outburst during a November 17, 2006 standup comedy routine at the venue. In response to that incident, The Laugh Factory banned comedians from using the word \"nigger\" in their acts. The first known incident involving this new rule involved Damon Wayans who used the word 16 times in a 20-minute show. He was fined $320 ($20 for each offense) and given a 3-month ban from the club.\nThe ban actually lasted just a month as he was back performing in January.\nCharity fundraisers have been held at the club, including benefit nights for the Red Cross, USO, <i>Cops For Causes</i>, <i>Comics Without Borders</i>, <i>Wounded Warriors</i>, <i>Middle Eastern Comedy Fest</i>, and <i>Stand Up For Pakistan</i>.",
+        "image": null,
+        "title": "Michael Richards incident"
+      }, {
+        "body": "The Laugh Factory keeps track of an endurance record for the comedian who can deliver the longest single set at the club. The record-holding performances are listed below:\n Date \tDuration January 2, 2008 \t7:34\tDane Cook\t\n December 3, 2007 \t6:12\t<a data-object_type=\"article\" data-id=\"Dave_Chappelle\">Dave Chappelle</a>\t\n April 15, 2007 \t6:07\t<a data-object_type=\"article\" data-id=\"Dave_Chappelle\">Dave Chappelle</a>\t\n April 10, 2007 \t3:50\tDane Cook\t\n 1980\t2:41\tRichard Pryor",
+        "image": null,
+        "title": "Endurance record"
+      }, {
+        "body": "On December 8, 2010 at 4:38pm the Laugh Factory broke the Guinness World Record for Longest Continuous Stand Up Comedy Show . The record was previously held by Comic Strip Live, who set the original record of 50 hours. The Laugh Factory surpassed 50 hours on Wednesday and continued non-stop until 10:38pm Thursday December 9 when they stopped and set a new record of 80 hours. Dom Irrera was on stage when the record was broken, and Deon Cole was on stage when the new record was set. The event, titled \"Toy to the World,\" was paired with a Toy Drive for <a data-object_type=\"poi\" data-id=\"N__358826461\">Children's Hospital</a>. Over 130 different comedians performed and the event was live-streamed over the internet. The Laugh Factory held this record until April 15, 2015, when the record was broken by jokesters at The East Room in Nashville, Tennessee.",
+        "image": null,
+        "title": "Guinness World Record"
+      }, {
+        "body": "<ul>\n<li> The Laugh Factory in <a data-object_type=\"location\" data-id=\"Long_Beach2C_California\">Long Beach</a> is part of the comedy club chain owned by Laugh Factory Inc.®<br /> This Laugh Factory opened its doors on September 20, 2008, has a seating of 670 and houses the official <b>Laugh Factory Stand-up Comedy Hall of Fame and Museum</b>.</li>\n<li> The Laugh Factory in Chicago opened its doors in January 2012 and has a seating capacity of 375. Its <i>Open Mic Night</i> is on Wednesdays </li>\n<li> The Laugh Factory in the Tropicana Hotel in Las Vegas has a seating of 270 and opened in 2012.</li>\n<li> The Laugh Factory in the Silver Legacy Casino opened its doors on July 24, 2015 and has a seating of 220.</li>\n<li> The Laugh Factory in the San Manuel Indian Bingo &amp; Casino is a provisionally club.</li>\n<li> The Laugh Factory in Scottsdale has a seating of 400.</li>\n<li> The Laugh Factory in Hotel del Coronado. It opened on June 26, 2014 and has a seating capacity of 250.\n</li>\n</ul>",
+        "image": null,
+        "title": "Other Laugh Factories"
+      }],
+      "title": "Laugh Factory"
+    },
+    "attribution": [{
+      "source_id": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Laugh%20Factory"
+    }, {
+      "source_id": "facebook",
+      "url": "https://www.facebook.com/LaughFactoryOfc/"
+    }],
+    "name": "Laugh Factory",
+    "tags": [{
+      "object_score": 6.20156736226946,
+      "tag": {
+        "tour_count": 0,
+        "name": "Comedy clubs",
+        "poi_count": 13,
+        "location_id": "Los_Angeles",
+        "label": "comedy",
+        "snippet": null,
+        "score": 3.84398380947886,
+        "article_count": 0,
+        "type": "do_and_see"
+      }
+    }, {
+      "object_score": 6.20156736226946,
+      "tag": {
+        "tour_count": 0,
+        "name": "Comedy club",
+        "poi_count": 13,
+        "location_id": "Los_Angeles",
+        "label": "poitype-Comedy_club",
+        "snippet": null,
+        "score": 3.84398380947886,
+        "article_count": 0,
+        "type": "badge"
+      }
+    }, {
+      "object_score": 4.35576133405513,
+      "tag": {
+        "tour_count": 10,
+        "name": "Nightlife",
+        "poi_count": 488,
+        "location_id": "Los_Angeles",
+        "label": "nightlife",
+        "snippet": "Hotel bars are generally considered by Angelenos to be the nicest places to have drinks.",
+        "score": 5.56935758375589,
+        "article_count": 0,
+        "type": "do_and_see"
+      }
+    }],
+    "intro": "The Laugh Factory is a chain of comedy clubs in the United States. The chain is owned by Laugh Factory Inc® and founder and current Chief Executive Jamie Masada.",
+    "tag_labels": ["comedy", "poitype-Comedy_club", "nightlife"],
+    "best_for": [],
+    "nightlife_score": 4.35576133405513,
+    "coordinates": {
+      "latitude": 34.098,
+      "longitude": -118.36447222222222
+    },
+    "properties": [{
+      "value": "+1 323-656-1336",
+      "name": "Phone",
+      "key": "phone"
+    }, {
+      "value": "8001 W Sunset Blvd",
+      "name": "Address",
+      "key": "address"
+    }, {
+      "value": "Conveniently located along local bus lines.",
+      "name": "Directions",
+      "key": "directions"
+    }, {
+      "value": "http://www.laughfactory.com",
+      "name": "Website",
+      "key": "website"
+    }, {
+      "value": "mon-thu 19:00-01:00; fri-sat 19:00-00:00",
+      "name": "Hours",
+      "key": "hours"
+    }],
+    "snippet": "A well-known comedy club that regularly features famous stand-up acts, with the occasional surprise celebrity guest.",
+    "booking_info": null,
+    "score": 6.20156736226946,
+    "facebook_id": "38845489643",
+    "images": [{
+      "attribution": {
+        "license_link": null,
+        "attribution_link": "https://commons.wikimedia.org/wiki/File:Laugh_Factory_at_Night.jpg",
+        "attribution_text": "Nickcedergren",
+        "license_text": "Public domain",
+        "format": "{attribution} / {license}"
+      },
+      "license": "Public domain",
+      "sizes": {
+        "medium": {
+          "url": "http://pic.triposo.com/ios/tripe_4/pic/Laugh_Factory.jpg",
+          "width": 548,
+          "bytes": 58128,
+          "height": 640
+        },
+        "thumbnail": {
+          "url": "http://pic.triposo.com/ios/tripe_4/thumb/Laugh_Factory.jpg",
+          "width": 164,
+          "bytes": 9762,
+          "height": 192
+        },
+        "original": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Laugh_Factory_at_Night.jpg",
+          "width": 2650,
+          "bytes": 6297153,
+          "height": 3096
+        }
+      },
+      "owner": "Nickcedergren",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Laugh_Factory_at_Night.jpg",
+      "caption": "image",
+      "source_id": "wikipedia",
+      "owner_url": "https://commons.wikimedia.org/wiki/File:Laugh_Factory_at_Night.jpg"
+    }, {
+      "attribution": {
+        "license_link": null,
+        "attribution_link": "https://www.facebook.com/LaughFactoryOfc/",
+        "attribution_text": "Facebook",
+        "license_text": null,
+        "format": "{attribution}"
+      },
+      "license": null,
+      "sizes": {
+        "medium": {
+          "url": "http://pic.triposo.com/ios/tripe_4/pic/Laugh_Factory__7308192d3f45.jpg",
+          "width": 640,
+          "bytes": 30199,
+          "height": 236
+        },
+        "thumbnail": {
+          "url": "http://pic.triposo.com/ios/tripe_4/thumb/Laugh_Factory__7308192d3f45.jpg",
+          "width": 192,
+          "bytes": 5811,
+          "height": 70
+        },
+        "original": {
+          "url": "http://pic.triposo.com/ios/tripe_4/full/Laugh_Factory__7308192d3f45.jpg",
+          "width": 720,
+          "bytes": 43138,
+          "height": 266
+        }
+      },
+      "owner": "Facebook",
+      "source_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/14457485_10154593977309644_524631658592948768_n.jpg?oh=76129b57f066b7e2ab8478120817ccfc&oe=58C82F2B",
+      "caption": null,
+      "source_id": "facebook",
+      "owner_url": "https://www.facebook.com/LaughFactoryOfc/"
+    }],
+    "location_id": "Los_Angeles",
+    "id": "Laugh_Factory"
+  }
+}

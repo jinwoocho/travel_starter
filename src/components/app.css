@@ -1,0 +1,317 @@
+#root {
+    margin-top: 53px;
+    height: 92vh;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+/* NAVBAR COMPONENT */
+.navbar, .footer {
+   background-color: #26628A;
+}
+
+.navbar-toggler {
+    border: none;
+    cursor: pointer;
+}
+
+.menu-icon {
+    font-size: 30px;
+}
+
+/* ICON COMPONENT */
+.icon-text:hover {
+    color: #FDB927;
+    text-decoration:none;
+    cursor:pointer;
+}
+
+.icon-text {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.profile-icons {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    cursor:pointer;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.icon-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.ballicon {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+.filter-btns {
+    font-size: 17px;
+}
+
+.filter-container {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+
+/* BUILD PAGE */
+.buildsearchpage {
+    margin-bottom: 53px;
+}
+
+.build-tabs {
+    display: flex;
+    justify-content: space-around;
+}
+
+.tab-links {
+    width: 187px;
+    text-align: center;
+    background-color: white;
+}
+
+.selected{
+    background-color: lightgray;
+}
+
+/* PROFILE HERO IMG // CONTENT */
+.profile-hero {
+    height: 40vh;
+    border-radius: 0;
+    background: url("./imgs/map.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.profile-lead {
+    font-size: 40px;
+    font-family: 'Playfair Display', serif;
+    margin-top: 60px;
+    text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+}
+
+/* COMP CONTAINERS */
+.discover-container {
+    margin-bottom: 50px;
+}
+
+
+.city-img {
+    margin-bottom: 10px;
+    height: 35vh;
+}
+
+.la, .Los_Angeles {
+    background: url("./imgs/la.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.mad, .Madrid {
+    background: url("./imgs/madrid.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* CARD COMPONENT */
+.card-img-top {
+    max-width: 100%;
+    height: 200px;
+}
+
+.card-grid {
+    display: flex;
+    justify-content: space-around;
+}
+
+.trip-block {
+    padding: 10px;
+    border-radius: 0;
+    background: lightgray;
+    font-family: 'Playfair Display', serif;
+}
+
+.city-jumbo {
+    margin-top: 0;
+    height: 100vh;
+    border-radius: 0;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.jumbo-content, .trip-name {
+    display: flex;
+    font-family: 'Playfair Display', serif;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height:100%;
+    color: white;
+}
+
+.trip-card {
+    margin: 10px 0;
+}
+
+.header-text {
+    padding: 13px;
+    font-family: 'Playfair Display', serif;
+}
+
+/* SIDENAV COMPONENT*/
+.hidden-sideNav {
+    height: 100%;
+    width: 290px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    transition: transform 450ms;
+    transform: translate(-300px, 0px);
+    box-sizing: border-box;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    border-radius: 0px;
+    overflow-x: hidden;
+    padding-top: 60px;
+    background-color: #f3f3f3;
+}
+
+.visible {
+    transform: translate(0px, 0px);
+}
+
+.sideNav-links {
+    margin-top: 5px;
+}
+
+.hidden-sideNav a {
+    padding: 6px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #000;
+    display: block;
+    transition: 0.3s;
+    text-align: center;
+}
+
+.hidden-sideNav a:hover{
+    color: rgb(25, 106, 229);
+}
+
+.hidden-sideNav a:active {
+    color: rgb(25, 106, 229);
+}
+
+hr {
+    margin-top: -7px;
+}
+
+.sideNav-img {
+    position: absolute;
+    top: 11px;
+    left: 30px;
+    width: 226px;
+    height: 36px;
+}
+
+/* CSS Loader */
+.spinner {
+  width: 40px;
+  height: 40px;
+
+  position: relative;
+  margin: 100px auto;
+}
+
+.double-bounce1, .double-bounce2 {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background-color: #333;
+  opacity: 0.6;
+  position: absolute;
+  top: 0;
+  left: 0;
+  
+  -webkit-animation: sk-bounce 2.0s infinite ease-in-out;
+  animation: sk-bounce 2.0s infinite ease-in-out;
+}
+
+.double-bounce2 {
+  -webkit-animation-delay: -1.0s;
+  animation-delay: -1.0s;
+}
+
+@-webkit-keyframes sk-bounce {
+  0%, 100% { -webkit-transform: scale(0.0) }
+  50% { -webkit-transform: scale(1.0) }
+}
+
+@keyframes sk-bounce {
+  0%, 100% { 
+    transform: scale(0.0);
+    -webkit-transform: scale(0.0);
+  } 50% { 
+    transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+  }
+}
+
+/*       */
+
+@media (min-width: 760px) { 
+    .profile-hero {
+        background: url("./imgs/road.jpg");
+        height: 40vh;
+        border-radius: 0;
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+    }
+    #root {
+        height: 95vh;
+    }
+    .profile-lead {
+        font-size: 60px;
+        margin-top: 60px;
+    }
+}
+
+@media (min-width: 470px) {
+     .Madrid, .Los_Angeles {
+        background-position: center center;
+    }
+}
+
+@media (max-width: 670px) {
+    .card-grid {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+}

@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Find Itinerary Bootstrap 4</title>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:900" rel="stylesheet">    <!-- Font Awesome Icons -->
+    <script src="https://use.fontawesome.com/776db76f10.js"></script>
+    <!-- jQuery first, then Tether, then Bootstrap JS. -->
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+</head>
+<body>
+
+    <!-- navbar header -->
+    <nav class="navbar navbar-fixed-top navbar-toggleable-sm navbar-inverse bg-primary flex-nowrap">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand" href="#">travelStarter</a>
+        <div id="navbarNavDropdown" class="navbar-collapse collapse">
+            <ul class="navbar-nav mr-auto">
+            </ul>
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Blog</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Itineraries<span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="https://www.lonelyplanet.com/usa/san-francisco" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Regions
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="#">Asia</a>
+                        <a class="dropdown-item" href="#">North America</a>
+                        <a class="dropdown-item" href="#">Europe</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <button type="button" class="btn btn-danger">Login/Signup</button>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <!-- static hero image -->
+    <div class="jumbotron jumbotron-fluid bg-overlay">
+        <h1 class="display-3 city-header">San Francisco</h1>
+        <hr class="my-3">
+        <p class="hero-subtitle">home of karl the fog</p>
+    </div>
+
+    <h5 class="discover-header">featured experiences</h5>
+
+    <div class="container">
+        <div class="card-deck">
+            <div class="card">
+                <img class="card-img-top" src="imgs/sanFrancisco.jpg" alt="Card image cap">
+                <div class="card-block">
+                    <h4 class="card-title">SF Trip</h4>
+                    <h6 class="card-subtitle mb-2 text-muted">4/21/17 - 4/27/17</h6>
+                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet, culpa.</p>
+                </div>
+                <div class="card-footer">
+                    <small class="text-muted">Last updated 2 days ago</small>
+                    <button class="btn btn-info float-right btn-sm">Details</button>
+                </div>
+            </div>
+            <div class="card">
+                <img class="card-img-top" src="imgs/paintedLadies.jpg" alt="Card image cap">
+                <div class="card-block">
+                    <h4 class="card-title">SF Trip</h4>
+                    <h6 class="card-subtitle mb-2 text-muted">5/13/17 - 5/16/17</h6>
+                    <p class="card-text">Lorem ipsum dolor sit amet.</p>
+                </div>
+                <div class="card-footer">
+                    <small class="text-muted">Last updated 30 mins ago</small>
+                    <button class="btn btn-info float-right btn-sm">Details</button>
+                </div>
+            </div>
+
+            <div class="card">
+                <img class="card-img-top" src="imgs/pyramid.jpg" alt="Card image cap">
+                <div class="card-block">
+                    <h4 class="card-title">SF Trip</h4>
+                    <p class="card-text">lorem13</p>
+                </div>
+                <div class="card-footer">
+                    <small class="text-muted">Last updated 1 mins ago</small>
+                    <button class="btn btn-info float-right btn-sm">Details</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- fixed footer -->
+    <div id="footer">
+        <div class="navbar fixed-bottom navbar-inverse bg-primary">
+            <div class="row" id="bottomNav">
+                <div class="col text-center icons"><a href="#" class="icon-text"><i class="fa fa-user-circle-o"></i><br>Profile</a></div>
+                <div class="col text-center icons"><a href="#" class="icon-text"><i class="fa fa-plus"></i><br>New Trip</a></div>
+                <div class="col text-center icons"><a href="#" class="icon-text"><i class="fa fa-globe"></i><br>Itinerary</a></div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

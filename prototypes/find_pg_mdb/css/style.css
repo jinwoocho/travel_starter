@@ -1,0 +1,68 @@
+html,
+body,
+.view {
+    height: 100%;
+}
+
+@font-face {
+    font-family: pacifico;
+    src: url(Pacifico-Regular.ttf);
+}
+
+@font-face {
+    font-family: rubik;
+    src: url(Rubik-Regular.ttf);
+}
+
+@font-face {
+    font-family: playfair;
+    src: url(PlayfairDisplay.ttf);
+}
+
+/* Navigation*/
+.navbar {
+    background-color: transparent;
+}
+
+.scrolling-navbar {
+    -webkit-transition: background .5s ease-in-out, padding .5s ease-in-out;
+    -moz-transition: background .5s ease-in-out, padding .5s ease-in-out;
+    transition: background .5s ease-in-out, padding .5s ease-in-out;
+}
+
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #1C2331;
+    }
+}
+
+.view {
+    background: url("../imgs/sfHero.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.city-header {
+    font-family: playfair, serif;
+    color: white;
+    text-shadow: 1px 1px 3px rgba(150, 150, 150, 1);
+}
+
+.mark-subtitle {
+    font-style: italic;
+    font-size: 20px;
+    font-family: rubik, 'Helvetica', serif;
+    color: white;
+    text-shadow: 1px 1px 3px rgba(150, 150, 150, 1);
+}
+
+#contact .fa {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.card {
+    margin-bottom: 25px;
+}

@@ -1,0 +1,1035 @@
+{
+  "name": "Madrid",
+  "images": [
+    "https://lh6.googleusercontent.com/-aos7LEiPn_k/VvnBgkm4S5I/AAAAAAAAOTE/LCVJDJvU_OY_qoVomszr9RTuuOlxEq-0wCJkC/w500-h500-k/",
+    "https://lh6.googleusercontent.com/-4BxcUGeKJrY/V_4nM_hTNRI/AAAAAAAATHY/3DlcdRRrrxQzs4y5vj_abHQTkzlhtCyLwCLIB/w500-h500-k/",
+    "https://lh3.googleusercontent.com/-AZrYk1pLMhc/V90lYilMzbI/AAAAAAAAIao/2DMVJabg8wQTDbHMxjpyFztPYGN2k-J4wCJkC/w500-h500-k/",
+    "https://lh4.googleusercontent.com/-qZHoS-UG-NU/WEWQcTwfT8I/AAAAAAABA9w/HtTt-IfRAYoUTp080eihjUaD8h9m0ptdACLIB/w500-h500-k/",
+    "https://lh6.googleusercontent.com/-VmqpevaWKQs/WT6Cc7guAhI/AAAAAAAAQFo/kQkBcPo5sMINR68npDCkblxLgvHLjWM4QCLIB/w500-h500-k/",
+    "https://lh5.googleusercontent.com/-FqDMaiHRjKU/V-2WNfrACUI/AAAAAAAACmQ/3RoHSu1uohoMNLOCwTsXel3rt1sRfKqfACLIB/w500-h500-k/",
+    "https://lh6.googleusercontent.com/-ZIg5lP88UKM/V62RSh1ks7I/AAAAAAAAFuI/CkB98srEA3cp2PnFXkLxO23Ko1Y02SU8wCLIB/w500-h500-k/",
+    "https://lh6.googleusercontent.com/-0fmWi3bSLvY/WH9ijQJn_qI/AAAAAAAADmA/c72KSZI_gJ41ljz4eOkv-k5pbps3URZ8ACLIB/w500-h500-k/",
+    "https://lh3.googleusercontent.com/-JnM4KIfHDr4/V6lrSTERruI/AAAAAAAAzEk/CiD5jIZfJCMdRw2dp2QUnA0aDSrMvDoOwCJkC/w500-h500-k/",
+    "https://lh4.googleusercontent.com/-Q0_ZXdRoCuI/V4pcsW8y4WI/AAAAAAAAADo/cpChXaXdq7gMAFBksc14uP2TBQKMWNxegCJkC/w500-h500-k/"
+  ],
+  "metadata": {
+    "latlong": [],
+    "locality": "Spain",
+    "entityType": [
+      "city"
+    ]
+  },
+  "recommendations": [
+    {
+      "attribution": [
+        {
+          "source_id": "wikipedia",
+          "url": "http://en.wikipedia.org/wiki/Plaza%20de%20Santa%20Ana"
+        },
+        {
+          "source_id": "facebook",
+          "url": "https://www.facebook.com/SantaAnaMadrid/"
+        },
+        {
+          "source_id": "openstreetmap",
+          "url": "http://www.openstreetmap.org/browse/node/4213675802"
+        }
+      ],
+      "name": "Plaza de Santa Ana",
+      "coordinates": {
+        "latitude": 40.4151459,
+        "longitude": -3.7012718
+      },
+      "snippet": "Located in the center.",
+      "score": 8.1988108025292,
+      "eatingout_score": 7.36933339856974,
+      "images": [
+        {
+          "attribution": {
+            "attribution_link": "https://commons.wikimedia.org/wiki/File:Night_scene_in_Plaza_de_Santa_Ana,_Madrid.JPG",
+            "attribution_text": "Daderot",
+            "license_text": "Public domain",
+            "format": "{attribution} / {license}"
+          },
+          "license": "Public domain",
+          "sizes": {
+            "medium": {
+              "url": "http://pic.triposo.com/ios/tripe_4/pic/W__4328786.jpg",
+              "width": 640,
+              "bytes": 45616,
+              "height": 480
+            },
+            "thumbnail": {
+              "url": "http://pic.triposo.com/ios/tripe_4/thumb/W__4328786.jpg",
+              "width": 192,
+              "bytes": 7627,
+              "height": 144
+            },
+            "original": {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Night_scene_in_Plaza_de_Santa_Ana%2C_Madrid.JPG",
+              "width": 3264,
+              "bytes": 3357565,
+              "height": 2448
+            }
+          },
+          "owner": "Daderot",
+          "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Night_scene_in_Plaza_de_Santa_Ana%2C_Madrid.JPG",
+          "caption": "Night view of the plaza, with the monument to Federico García Lorca in the foreground and the ME Madrid Reina Victoria in the background",
+          "source_id": "wikipedia",
+          "owner_url": "https://commons.wikimedia.org/wiki/File:Night_scene_in_Plaza_de_Santa_Ana,_Madrid.JPG"
+        },
+        {
+          "attribution": {
+            "license_link": "http://creativecommons.org/licenses/by-sa/2.0",
+            "attribution_link": "https://commons.wikimedia.org/wiki/File:Monumento_a_Calder%C3%B3n_de_la_Barca_(Madrid)_01.jpg",
+            "attribution_text": "Luis García from Madrid (Spain).",
+            "license_text": "CC BY-SA 2.0",
+            "format": "{attribution} / {license}"
+          },
+          "license": "CC BY-SA 2.0",
+          "sizes": {
+            "medium": {
+              "url": "http://pic.triposo.com/ios/tripe_4/pic/W__4328786__a903a112ddbb.jpg",
+              "width": 334,
+              "bytes": 38125,
+              "height": 640
+            },
+            "thumbnail": {
+              "url": "http://pic.triposo.com/ios/tripe_4/thumb/W__4328786__a903a112ddbb.jpg",
+              "width": 100,
+              "bytes": 5587,
+              "height": 192
+            },
+            "original": {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Monumento_a_Calder%C3%B3n_de_la_Barca_%28Madrid%29_01.jpg",
+              "width": 1341,
+              "bytes": 588694,
+              "height": 2563
+            }
+          },
+          "owner": "Luis García from Madrid (Spain).",
+          "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Monumento_a_Calder%C3%B3n_de_la_Barca_%28Madrid%29_01.jpg",
+          "caption": "The monument to Pedro Calderón de la Barca on the plaza (Joan Figueras Vila, 1878).",
+          "source_id": "wikipedia",
+          "owner_url": "https://commons.wikimedia.org/wiki/File:Monumento_a_Calder%C3%B3n_de_la_Barca_(Madrid)_01.jpg"
+        },
+        {
+          "attribution": {
+            "attribution_link": "https://www.facebook.com/SantaAnaMadrid/",
+            "attribution_text": "Facebook",
+            "format": "{attribution}"
+          },
+          "sizes": {
+            "medium": {
+              "url": "http://pic.triposo.com/ios/tripe_4/pic/W__4328786__840feef8f4e9.jpg",
+              "width": 620,
+              "bytes": 49677,
+              "height": 400
+            },
+            "thumbnail": {
+              "url": "http://pic.triposo.com/ios/tripe_4/thumb/W__4328786__840feef8f4e9.jpg",
+              "width": 192,
+              "bytes": 8302,
+              "height": 123
+            },
+            "original": {
+              "url": "http://pic.triposo.com/ios/tripe_4/full/W__4328786__840feef8f4e9.jpg",
+              "width": 620,
+              "bytes": 53694,
+              "height": 400
+            }
+          },
+          "owner": "Facebook",
+          "source_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/12274334_850551918392561_3931798080882669687_n.jpg?oh=7db7118b9d41f2d6038eafa2876ab105&oe=58C6FF08",
+          "source_id": "facebook",
+          "owner_url": "https://www.facebook.com/SantaAnaMadrid/"
+        }
+      ],
+      "location_id": "Madrid",
+      "id": "W__4328786",
+      "hashtags": [
+        "#PlazadeSantaAna"
+      ]
+    },
+    {
+      "attribution": [
+        {
+          "source_id": "wikipedia",
+          "url": "http://en.wikipedia.org/wiki/Chocolater%C3%ADa%20San%20Gin%C3%A9s"
+        },
+        {
+          "source_id": "facebook",
+          "url": "https://www.facebook.com/pages/Chocolater%C3%ADa-San-Gin%C3%A9s/492127114313452"
+        },
+        {
+          "source_id": "openstreetmap",
+          "url": "http://www.openstreetmap.org/browse/node/178821166"
+        }
+      ],
+      "name": "Chocolatería San Ginés",
+      "coordinates": {
+        "latitude": 40.4167809,
+        "longitude": -3.7068351
+      },
+      "snippet": "Spanish doughnuts and talented waiters.",
+      "score": 7.32992231369399,
+      "eatingout_score": 8.13465709898372,
+      "images": [
+        {
+          "attribution": {
+            "license_link": "http://creativecommons.org/licenses/by-sa/2.5",
+            "attribution_link": "https://commons.wikimedia.org/wiki/File:Chocolate_con_churros_-_San_Gin%C3%A9s_-_Madrid.jpg",
+            "attribution_text": "w:es:Usuario:Barcex",
+            "license_text": "CC BY-SA 2.5",
+            "format": "{attribution} / {license}"
+          },
+          "license": "CC BY-SA 2.5",
+          "sizes": {
+            "medium": {
+              "url": "http://pic.triposo.com/ios/tripe_4/pic/N__178821166.jpg",
+              "width": 640,
+              "bytes": 29993,
+              "height": 448
+            },
+            "thumbnail": {
+              "url": "http://pic.triposo.com/ios/tripe_4/thumb/N__178821166.jpg",
+              "width": 192,
+              "bytes": 5980,
+              "height": 134
+            },
+            "original": {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Chocolate_con_churros_-_San_Gin%C3%A9s_-_Madrid.jpg",
+              "width": 1244,
+              "bytes": 208978,
+              "height": 872
+            }
+          },
+          "owner": "w:es:Usuario:Barcex",
+          "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Chocolate_con_churros_-_San_Gin%C3%A9s_-_Madrid.jpg",
+          "caption": "Chocolate con churros served at San Ginés",
+          "source_id": "wikipedia",
+          "owner_url": "https://commons.wikimedia.org/wiki/File:Chocolate_con_churros_-_San_Gin%C3%A9s_-_Madrid.jpg"
+        },
+        {
+          "attribution": {
+            "license_link": "http://creativecommons.org/licenses/by/3.0",
+            "attribution_link": "https://commons.wikimedia.org/wiki/File:Chocolater%C3%ADa_%22San_Gines%22-Madrid-2009.jpg",
+            "attribution_text": "Tamorlan",
+            "license_text": "CC BY 3.0",
+            "format": "{attribution} / {license}"
+          },
+          "license": "CC BY 3.0",
+          "sizes": {
+            "medium": {
+              "url": "http://pic.triposo.com/ios/tripe_4/pic/N__178821166__c159c8cb971b.jpg",
+              "width": 426,
+              "bytes": 42034,
+              "height": 640
+            },
+            "thumbnail": {
+              "url": "http://pic.triposo.com/ios/tripe_4/thumb/N__178821166__c159c8cb971b.jpg",
+              "width": 128,
+              "bytes": 7338,
+              "height": 192
+            },
+            "original": {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Chocolater%C3%ADa_%22San_Gines%22-Madrid-2009.jpg",
+              "width": 2592,
+              "bytes": 3761076,
+              "height": 3888
+            }
+          },
+          "owner": "Tamorlan",
+          "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Chocolater%C3%ADa_%22San_Gines%22-Madrid-2009.jpg",
+          "caption": "The entrance to the Chocolatería",
+          "source_id": "wikipedia",
+          "owner_url": "https://commons.wikimedia.org/wiki/File:Chocolater%C3%ADa_%22San_Gines%22-Madrid-2009.jpg"
+        },
+        {
+          "attribution": {
+            "attribution_link": "http://www.touristeye.com/Chocolater%C3%ADa-San-Gin%C3%A9s-Madrid-p-951",
+            "attribution_text": "TouristEye",
+            "format": "{attribution}"
+          },
+          "sizes": {
+            "medium": {
+              "url": "http://pic.triposo.com/ios/tripe_4/pic/N__178821166__2744c483910e.jpg",
+              "width": 640,
+              "bytes": 47629,
+              "height": 426
+            },
+            "thumbnail": {
+              "url": "http://pic.triposo.com/ios/tripe_4/thumb/N__178821166__2744c483910e.jpg",
+              "width": 192,
+              "bytes": 8553,
+              "height": 128
+            },
+            "original": {
+              "url": "http://touristeye-photos.s3.amazonaws.com/places/web/chocolateria-san-gines_6d40087de3e838484f95c465223cea44631cd0f2.jpg",
+              "width": 700,
+              "bytes": 69950,
+              "height": 467
+            }
+          },
+          "owner": "TouristEye",
+          "source_url": "http://touristeye-photos.s3.amazonaws.com/places/web/chocolateria-san-gines_6d40087de3e838484f95c465223cea44631cd0f2.jpg",
+          "source_id": "touristeye",
+          "owner_url": "http://www.touristeye.com/Chocolater%C3%ADa-San-Gin%C3%A9s-Madrid-p-951"
+        }
+      ],
+      "location_id": "Madrid",
+      "id": "N__178821166",
+      "hashtags": [
+        "#ChocolateríaSanGinés"
+      ]
+    },
+    {
+      "attribution": [
+        {
+          "source_id": "touristeye",
+          "url": "http://www.touristeye.com/Corral-de-la-Morer%C3%ADa-Madrid-p-317011"
+        },
+        {
+          "source_id": "openstreetmap",
+          "url": "http://www.openstreetmap.org/"
+        },
+        {
+          "source_id": "facebook",
+          "url": "https://www.facebook.com/pages/Corral-de-La-Moreria-Tablao-Flamenco/246700028764349"
+        }
+      ],
+      "name": "Corral de la Morería",
+      "coordinates": {
+        "latitude": 40.412730512585064,
+        "longitude": -3.7142013427623106
+      },
+      "snippet": "One of the most famous flamenco tablaos in the world.",
+      "score": 6.61517687408204,
+      "eatingout_score": 5.77609528382851,
+      "images": [
+        {
+          "attribution": {
+            "attribution_link": "http://www.touristeye.com/Corral-de-la-Morer%C3%ADa-Madrid-p-317011",
+            "attribution_text": "TouristEye",
+            "format": "{attribution}"
+          },
+          "sizes": {
+            "medium": {
+              "url": "http://pic.triposo.com/ios/tripe_4/pic/T__7bf8be73d8ac.jpg",
+              "width": 640,
+              "bytes": 42998,
+              "height": 426
+            },
+            "thumbnail": {
+              "url": "http://pic.triposo.com/ios/tripe_4/thumb/T__7bf8be73d8ac.jpg",
+              "width": 192,
+              "bytes": 7549,
+              "height": 127
+            },
+            "original": {
+              "url": "http://touristeye-photos.s3.amazonaws.com/places/web/corral-de-la-moreria_5e137e1d71591e80f6d35e50ea46b7cb1c346d8d.jpg",
+              "width": 800,
+              "bytes": 78413,
+              "height": 533
+            }
+          },
+          "owner": "TouristEye",
+          "source_url": "http://touristeye-photos.s3.amazonaws.com/places/web/corral-de-la-moreria_5e137e1d71591e80f6d35e50ea46b7cb1c346d8d.jpg",
+          "source_id": "touristeye",
+          "owner_url": "http://www.touristeye.com/Corral-de-la-Morer%C3%ADa-Madrid-p-317011"
+        }
+      ],
+      "location_id": "Madrid",
+      "id": "T__7bf8be73d8ac",
+      "hashtags": [
+        "#CorraldelaMorería"
+      ]
+    },
+    {
+      "attribution": [
+        {
+          "source_id": "wikipedia",
+          "url": "http://en.wikipedia.org/wiki/Sobrino%20de%20Bot%C3%ADn"
+        },
+        {
+          "source_id": "wikivoyage",
+          "url": "http://en.wikivoyage.org/wiki/Madrid"
+        },
+        {
+          "source_id": "facebook",
+          "url": "https://www.facebook.com/pages/Restaurante-Bot%C3%ADn/462483633947862"
+        },
+        {
+          "source_id": "openstreetmap",
+          "url": "http://www.openstreetmap.org/browse/node/510812824"
+        }
+      ],
+      "name": "Botín",
+      "coordinates": {
+        "latitude": 40.4141852,
+        "longitude": -3.7079831
+      },
+      "snippet": "Opened in 1725, Botín is listed in the Guinness Book of Records as the oldest operating restaurant in the world.",
+      "score": 6.33938834850266,
+      "eatingout_score": 6.1919109921349,
+      "images": [
+        {
+          "attribution": {
+            "license_link": "http://creativecommons.org/licenses/by/2.0/",
+            "attribution_link": "http://www.flickr.com/photos/mobilephotosheidenstrom",
+            "attribution_text": "Bjørn Heidenstrøm",
+            "license_text": "CC BY 2.0",
+            "format": "{attribution} / {license}"
+          },
+          "license": "CC BY 2.0",
+          "sizes": {
+            "medium": {
+              "url": "http://pic.triposo.com/ios/tripe_4/pic/N__510812824.jpg",
+              "width": 640,
+              "bytes": 42168,
+              "height": 426
+            },
+            "thumbnail": {
+              "url": "http://pic.triposo.com/ios/tripe_4/thumb/N__510812824.jpg",
+              "width": 192,
+              "bytes": 6988,
+              "height": 128
+            },
+            "original": {
+              "url": "https://farm6.staticflickr.com/5270/5619558943_6ea2b43f5d_o.jpg",
+              "width": 3421,
+              "bytes": 1775669,
+              "height": 2281
+            }
+          },
+          "owner": "Bjørn Heidenstrøm",
+          "source_url": "https://farm6.staticflickr.com/5270/5619558943_6ea2b43f5d_o.jpg",
+          "source_id": "flickr",
+          "owner_url": "http://www.flickr.com/photos/mobilephotosheidenstrom"
+        },
+        {
+          "attribution": {
+            "attribution_link": "https://commons.wikimedia.org/wiki/File:Casa_Bot%C3%ADn_2.JPG",
+            "attribution_text": "Esetena",
+            "license_text": "Public domain",
+            "format": "{attribution} / {license}"
+          },
+          "license": "Public domain",
+          "sizes": {
+            "medium": {
+              "url": "http://pic.triposo.com/ios/tripe_4/pic/N__510812824__a0f7e7cd4da4.jpg",
+              "width": 640,
+              "bytes": 54110,
+              "height": 480
+            },
+            "thumbnail": {
+              "url": "http://pic.triposo.com/ios/tripe_4/thumb/N__510812824__a0f7e7cd4da4.jpg",
+              "width": 192,
+              "bytes": 9066,
+              "height": 144
+            },
+            "original": {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Casa_Bot%C3%ADn_2.JPG",
+              "width": 2816,
+              "bytes": 1508057,
+              "height": 2112
+            }
+          },
+          "owner": "Esetena",
+          "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Casa_Bot%C3%ADn_2.JPG",
+          "caption": "right",
+          "source_id": "wikipedia",
+          "owner_url": "https://commons.wikimedia.org/wiki/File:Casa_Bot%C3%ADn_2.JPG"
+        },
+        {
+          "attribution": {
+            "attribution_link": "http://www.touristeye.com/Restaurante-Botin-Madrid-p-659278",
+            "attribution_text": "TouristEye",
+            "format": "{attribution}"
+          },
+          "sizes": {
+            "medium": {
+              "url": "http://pic.triposo.com/ios/tripe_4/pic/N__510812824__7ed298cf05a5.jpg",
+              "width": 640,
+              "bytes": 36038,
+              "height": 480
+            },
+            "thumbnail": {
+              "url": "http://pic.triposo.com/ios/tripe_4/thumb/N__510812824__7ed298cf05a5.jpg",
+              "width": 192,
+              "bytes": 6881,
+              "height": 144
+            },
+            "original": {
+              "url": "http://touristeye-photos.s3.amazonaws.com/places/web/525b4fae63415.jpg",
+              "width": 1200,
+              "bytes": 189260,
+              "height": 900
+            }
+          },
+          "owner": "TouristEye",
+          "source_url": "http://touristeye-photos.s3.amazonaws.com/places/web/525b4fae63415.jpg",
+          "source_id": "touristeye",
+          "owner_url": "http://www.touristeye.com/Restaurante-Botin-Madrid-p-659278"
+        }
+      ],
+      "location_id": "Madrid",
+      "id": "N__510812824",
+      "hashtags": [
+        "#Botín",
+        "#restaurant"
+      ]
+    },
+    {
+      "attribution": [
+        {
+          "source_id": "wikipedia",
+          "url": "http://en.wikipedia.org/wiki/Platea%20Madrid"
+        },
+        {
+          "source_id": "facebook",
+          "url": "https://www.facebook.com/plateamad/"
+        },
+        {
+          "source_id": "openstreetmap",
+          "url": "http://www.openstreetmap.org/browse/node/3863824883"
+        }
+      ],
+      "name": "Platea Madrid",
+      "coordinates": {
+        "latitude": 40.4257238,
+        "longitude": -3.6888408
+      },
+      "snippet": "Spanish wines.",
+      "score": 5.73087597080559,
+      "eatingout_score": 6.18995575857986,
+      "images": [],
+      "location_id": "Madrid",
+      "id": "T__335f3edab69c",
+      "hashtags": [
+        "#PlateaMadrid"
+      ]
+    },
+    {
+      "attribution": [
+        {
+          "source_id": "wikipedia",
+          "url": "http://en.wikipedia.org/wiki/Caf%C3%A9%20Gij%C3%B3n"
+        },
+        {
+          "source_id": "wikivoyage",
+          "url": "http://en.wikivoyage.org/wiki/Madrid"
+        },
+        {
+          "source_id": "facebook",
+          "url": "https://www.facebook.com/Café-Gijón-865979683496890/"
+        },
+        {
+          "source_id": "openstreetmap",
+          "url": "http://www.openstreetmap.org/browse/node/3426617375"
+        }
+      ],
+      "name": "Café Gijón",
+      "coordinates": {
+        "latitude": 40.4221948,
+        "longitude": -3.6923421
+      },
+      "snippet": "A historic literary cafe. The outdoor terraza is nice in the summer.",
+      "score": 4.94891977178525,
+      "eatingout_score": 5.24067078727734,
+      "images": [
+        {
+          "attribution": {
+            "license_link": "http://creativecommons.org/licenses/by/2.0",
+            "attribution_link": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Gij%C3%B3n.jpg",
+            "attribution_text": "Roberto Garcia",
+            "license_text": "CC BY 2.0",
+            "format": "{attribution} / {license}"
+          },
+          "license": "CC BY 2.0",
+          "sizes": {
+            "medium": {
+              "url": "http://pic.triposo.com/ios/tripe_4/pic/N__27506675.jpg",
+              "width": 640,
+              "bytes": 56897,
+              "height": 426
+            },
+            "thumbnail": {
+              "url": "http://pic.triposo.com/ios/tripe_4/thumb/N__27506675.jpg",
+              "width": 192,
+              "bytes": 8179,
+              "height": 128
+            },
+            "original": {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Caf%C3%A9_Gij%C3%B3n.jpg",
+              "width": 1600,
+              "bytes": 369304,
+              "height": 1067
+            }
+          },
+          "owner": "Roberto Garcia",
+          "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Caf%C3%A9_Gij%C3%B3n.jpg",
+          "caption": "Exterior wood façade of Café Gijón",
+          "source_id": "wikipedia",
+          "owner_url": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Gij%C3%B3n.jpg"
+        },
+        {
+          "attribution": {
+            "license_link": "http://creativecommons.org/licenses/by-sa/2.0",
+            "attribution_link": "https://commons.wikimedia.org/wiki/File:Paseo_de_Recoletos_(Madrid)_02.jpg",
+            "attribution_text": "Luis García",
+            "license_text": "CC BY-SA 2.0",
+            "format": "{attribution} / {license}"
+          },
+          "license": "CC BY-SA 2.0",
+          "sizes": {
+            "medium": {
+              "url": "http://pic.triposo.com/ios/tripe_4/pic/N__27506675__8b11f0e4ff4f.jpg",
+              "width": 640,
+              "bytes": 87748,
+              "height": 480
+            },
+            "thumbnail": {
+              "url": "http://pic.triposo.com/ios/tripe_4/thumb/N__27506675__8b11f0e4ff4f.jpg",
+              "width": 192,
+              "bytes": 9729,
+              "height": 144
+            },
+            "original": {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Paseo_de_Recoletos_%28Madrid%29_02.jpg",
+              "width": 2976,
+              "bytes": 1276427,
+              "height": 2232
+            }
+          },
+          "owner": "Luis García",
+          "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Paseo_de_Recoletos_%28Madrid%29_02.jpg",
+          "caption": "Paseo de Recoletos, The café is on the left",
+          "source_id": "wikipedia",
+          "owner_url": "https://commons.wikimedia.org/wiki/File:Paseo_de_Recoletos_(Madrid)_02.jpg"
+        },
+        {
+          "attribution": {
+            "license_link": "http://creativecommons.org/licenses/by/3.0",
+            "attribution_link": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Madrid-Museo_cera.jpg",
+            "attribution_text": "Tamorlan",
+            "license_text": "CC BY 3.0",
+            "format": "{attribution} / {license}"
+          },
+          "license": "CC BY 3.0",
+          "sizes": {
+            "medium": {
+              "url": "http://pic.triposo.com/ios/tripe_4/pic/N__27506675__6a76ae51c05e.jpg",
+              "width": 640,
+              "bytes": 35840,
+              "height": 426
+            },
+            "thumbnail": {
+              "url": "http://pic.triposo.com/ios/tripe_4/thumb/N__27506675__6a76ae51c05e.jpg",
+              "width": 192,
+              "bytes": 7418,
+              "height": 128
+            },
+            "original": {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Caf%C3%A9_Madrid-Museo_cera.jpg",
+              "width": 3888,
+              "bytes": 3907290,
+              "height": 2592
+            }
+          },
+          "owner": "Tamorlan",
+          "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Caf%C3%A9_Madrid-Museo_cera.jpg",
+          "caption": "A scene from the café on display in the nearby wax museum",
+          "source_id": "wikipedia",
+          "owner_url": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Madrid-Museo_cera.jpg"
+        },
+        {
+          "attribution": {
+            "attribution_link": "https://www.facebook.com/Café-Gijón-865979683496890/",
+            "attribution_text": "Facebook",
+            "format": "{attribution}"
+          },
+          "sizes": {
+            "medium": {
+              "url": "http://pic.triposo.com/ios/tripe_4/pic/N__27506675__76c00d451b6b.jpg",
+              "width": 640,
+              "bytes": 33672,
+              "height": 426
+            },
+            "thumbnail": {
+              "url": "http://pic.triposo.com/ios/tripe_4/thumb/N__27506675__76c00d451b6b.jpg",
+              "width": 192,
+              "bytes": 5389,
+              "height": 128
+            },
+            "original": {
+              "url": "http://pic.triposo.com/ios/tripe_4/full/N__27506675__76c00d451b6b.jpg",
+              "width": 720,
+              "bytes": 66175,
+              "height": 480
+            }
+          },
+          "owner": "Facebook",
+          "source_url": "https://scontent.xx.fbcdn.net/v/t1.0-9/15032769_1168906773204178_9165449360857534053_n.jpg?oh=d90e7d15ba04cb9bec0d26d0d8f07f0a&oe=58AE8CA3",
+          "source_id": "facebook",
+          "owner_url": "https://www.facebook.com/Café-Gijón-865979683496890/"
+        },
+        {
+          "attribution": {
+            "attribution_link": "http://www.touristeye.com/Gran-Caf%C3%A9-de-Gij%C3%B3n-Madrid-p-513201",
+            "attribution_text": "TouristEye",
+            "format": "{attribution}"
+          },
+          "sizes": {
+            "medium": {
+              "url": "http://pic.triposo.com/ios/tripe_4/pic/N__27506675__91293c2698e4.jpg",
+              "width": 640,
+              "bytes": 63240,
+              "height": 480
+            },
+            "thumbnail": {
+              "url": "http://pic.triposo.com/ios/tripe_4/thumb/N__27506675__91293c2698e4.jpg",
+              "width": 192,
+              "bytes": 9181,
+              "height": 144
+            },
+            "original": {
+              "url": "http://touristeye-photos.s3.amazonaws.com/places/web/Gran-Cafe-de-Gijon_c22fd198c0fa9ca5e8ed56acbe6c9a3e445e5670.jpg",
+              "width": 800,
+              "bytes": 119065,
+              "height": 600
+            }
+          },
+          "owner": "TouristEye",
+          "source_url": "http://touristeye-photos.s3.amazonaws.com/places/web/Gran-Cafe-de-Gijon_c22fd198c0fa9ca5e8ed56acbe6c9a3e445e5670.jpg",
+          "source_id": "touristeye",
+          "owner_url": "http://www.touristeye.com/Gran-Caf%C3%A9-de-Gij%C3%B3n-Madrid-p-513201"
+        }
+      ],
+      "location_id": "Madrid",
+      "id": "N__27506675",
+      "hashtags": [
+        "#CaféGijón",
+        "#historic"
+      ]
+    },
+    {
+      "attribution": [
+        {
+          "source_id": "wikipedia",
+          "url": "http://en.wikipedia.org/wiki/Lhardy"
+        },
+        {
+          "source_id": "facebook",
+          "url": "https://www.facebook.com/pages/Lhardy/494790223882445"
+        },
+        {
+          "source_id": "touristeye",
+          "url": "http://www.touristeye.com/Lhardy-Madrid-p-513271"
+        },
+        {
+          "source_id": "openstreetmap",
+          "url": "http://www.openstreetmap.org/browse/node/2437748225"
+        }
+      ],
+      "name": "Lhardy",
+      "coordinates": {
+        "latitude": 40.4166082,
+        "longitude": -3.7013775
+      },
+      "snippet": "Great soup in an intimate atmosphere.",
+      "score": 4.84823768272413,
+      "eatingout_score": 5.11855611313362,
+      "images": [
+        {
+          "attribution": {
+            "license_link": "http://creativecommons.org/licenses/by/3.0",
+            "attribution_link": "https://commons.wikimedia.org/wiki/File:Restaurante_Lhardy-2009.jpg",
+            "attribution_text": "Tamorlan",
+            "license_text": "CC BY 3.0",
+            "format": "{attribution} / {license}"
+          },
+          "license": "CC BY 3.0",
+          "sizes": {
+            "medium": {
+              "url": "http://pic.triposo.com/ios/tripe_4/pic/T__894ed43cf633.jpg",
+              "width": 640,
+              "bytes": 50054,
+              "height": 426
+            },
+            "thumbnail": {
+              "url": "http://pic.triposo.com/ios/tripe_4/thumb/T__894ed43cf633.jpg",
+              "width": 192,
+              "bytes": 7908,
+              "height": 128
+            },
+            "original": {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Restaurante_Lhardy-2009.jpg",
+              "width": 3888,
+              "bytes": 4188381,
+              "height": 2592
+            }
+          },
+          "owner": "Tamorlan",
+          "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Restaurante_Lhardy-2009.jpg",
+          "caption": "Restaurante Lhardy-2009",
+          "source_id": "wikipedia",
+          "owner_url": "https://commons.wikimedia.org/wiki/File:Restaurante_Lhardy-2009.jpg"
+        },
+        {
+          "attribution": {
+            "license_link": "http://creativecommons.org/licenses/by/3.0",
+            "attribution_link": "https://commons.wikimedia.org/wiki/File:Interior_tienda_Lhardy-2009.jpg",
+            "attribution_text": "Tamorlan",
+            "license_text": "CC BY 3.0",
+            "format": "{attribution} / {license}"
+          },
+          "license": "CC BY 3.0",
+          "sizes": {
+            "medium": {
+              "url": "http://pic.triposo.com/ios/tripe_4/pic/T__894ed43cf633__3337c3485ddd.jpg",
+              "width": 426,
+              "bytes": 41568,
+              "height": 640
+            },
+            "thumbnail": {
+              "url": "http://pic.triposo.com/ios/tripe_4/thumb/T__894ed43cf633__3337c3485ddd.jpg",
+              "width": 128,
+              "bytes": 7299,
+              "height": 192
+            },
+            "original": {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Interior_tienda_Lhardy-2009.jpg",
+              "width": 2592,
+              "bytes": 3024608,
+              "height": 3888
+            }
+          },
+          "owner": "Tamorlan",
+          "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Interior_tienda_Lhardy-2009.jpg",
+          "caption": "Interior tienda Lhardy-2009",
+          "source_id": "wikipedia",
+          "owner_url": "https://commons.wikimedia.org/wiki/File:Interior_tienda_Lhardy-2009.jpg"
+        },
+        {
+          "attribution": {
+            "license_link": "http://creativecommons.org/licenses/by/3.0",
+            "attribution_link": "https://commons.wikimedia.org/wiki/File:Sal%C3%B3n_Japon%C3%A9s-Lhardy.jpg",
+            "attribution_text": "Tamorlan",
+            "license_text": "CC BY 3.0",
+            "format": "{attribution} / {license}"
+          },
+          "license": "CC BY 3.0",
+          "sizes": {
+            "medium": {
+              "url": "http://pic.triposo.com/ios/tripe_4/pic/T__894ed43cf633__861decbd5f4e.jpg",
+              "width": 426,
+              "bytes": 38442,
+              "height": 640
+            },
+            "thumbnail": {
+              "url": "http://pic.triposo.com/ios/tripe_4/thumb/T__894ed43cf633__861decbd5f4e.jpg",
+              "width": 128,
+              "bytes": 7009,
+              "height": 192
+            },
+            "original": {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sal%C3%B3n_Japon%C3%A9s-Lhardy.jpg",
+              "width": 2592,
+              "bytes": 3666434,
+              "height": 3888
+            }
+          },
+          "owner": "Tamorlan",
+          "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sal%C3%B3n_Japon%C3%A9s-Lhardy.jpg",
+          "caption": "Salón Japonés-Lhardy",
+          "source_id": "wikipedia",
+          "owner_url": "https://commons.wikimedia.org/wiki/File:Sal%C3%B3n_Japon%C3%A9s-Lhardy.jpg"
+        },
+        {
+          "attribution": {
+            "attribution_link": "http://www.touristeye.com/Lhardy-Madrid-p-513271",
+            "attribution_text": "TouristEye",
+            "format": "{attribution}"
+          },
+          "sizes": {
+            "medium": {
+              "url": "http://pic.triposo.com/ios/tripe_4/pic/T__894ed43cf633__abd93c4a848c.jpg",
+              "width": 640,
+              "bytes": 62685,
+              "height": 426
+            },
+            "thumbnail": {
+              "url": "http://pic.triposo.com/ios/tripe_4/thumb/T__894ed43cf633__abd93c4a848c.jpg",
+              "width": 192,
+              "bytes": 10402,
+              "height": 127
+            },
+            "original": {
+              "url": "http://touristeye-photos.s3.amazonaws.com/places/web/Lhardy_2d5e63e9382e70cead710da8d8130f721f4a8aee.jpg",
+              "width": 800,
+              "bytes": 113242,
+              "height": 533
+            }
+          },
+          "owner": "TouristEye",
+          "source_url": "http://touristeye-photos.s3.amazonaws.com/places/web/Lhardy_2d5e63e9382e70cead710da8d8130f721f4a8aee.jpg",
+          "source_id": "touristeye",
+          "owner_url": "http://www.touristeye.com/Lhardy-Madrid-p-513271"
+        }
+      ],
+      "location_id": "Madrid",
+      "id": "T__894ed43cf633",
+      "hashtags": [
+        "#Lhardy"
+      ]
+    },
+    {
+      "attribution": [
+        {
+          "source_id": "facebook",
+          "url": "https://www.facebook.com/museodeljamonmadrid/"
+        },
+        {
+          "source_id": "openstreetmap",
+          "url": "http://www.openstreetmap.org/browse/node/3007302451"
+        }
+      ],
+      "name": "Museo del Jamón",
+      "coordinates": {
+        "latitude": 40.4228381,
+        "longitude": -3.7096606
+      },
+      "snippet": "Located in the city center.",
+      "score": 4.74301779469092,
+      "eatingout_score": 5.53531631585654,
+      "images": [],
+      "location_id": "Madrid",
+      "id": "T__81ee37b3d837",
+      "hashtags": [
+        "#MuseodelJamón"
+      ]
+    },
+    {
+      "attribution": [
+        {
+          "source_id": "facebook",
+          "url": "https://www.facebook.com/pages/Taberna-Gastromaquia/184571958223884"
+        },
+        {
+          "source_id": "touristeye",
+          "url": "http://www.touristeye.com/Gastromaquia-Madrid-p-513193"
+        },
+        {
+          "source_id": "openstreetmap",
+          "url": "http://www.openstreetmap.org/"
+        }
+      ],
+      "name": "Gastromaquia",
+      "coordinates": {
+        "latitude": 40.42215547189185,
+        "longitude": -3.69887532263675
+      },
+      "snippet": "People love the awesome desserts, superb paella and amazing mussels.",
+      "score": 4.61941400418821,
+      "eatingout_score": 5.38451658608329,
+      "images": [
+        {
+          "attribution": {
+            "attribution_link": "http://www.touristeye.com/Gastromaquia-Madrid-p-513193",
+            "attribution_text": "TouristEye",
+            "format": "{attribution}"
+          },
+          "sizes": {
+            "medium": {
+              "url": "http://pic.triposo.com/ios/tripe_4/pic/T__f916841a5b36.jpg",
+              "width": 640,
+              "bytes": 36215,
+              "height": 480
+            },
+            "thumbnail": {
+              "url": "http://pic.triposo.com/ios/tripe_4/thumb/T__f916841a5b36.jpg",
+              "width": 192,
+              "bytes": 5183,
+              "height": 144
+            },
+            "original": {
+              "url": "http://touristeye-photos.s3.amazonaws.com/places/web/525b4ee7aa2ff.jpg",
+              "width": 1200,
+              "bytes": 174589,
+              "height": 900
+            }
+          },
+          "owner": "TouristEye",
+          "source_url": "http://touristeye-photos.s3.amazonaws.com/places/web/525b4ee7aa2ff.jpg",
+          "source_id": "touristeye",
+          "owner_url": "http://www.touristeye.com/Gastromaquia-Madrid-p-513193"
+        }
+      ],
+      "location_id": "Madrid",
+      "id": "T__f916841a5b36",
+      "hashtags": [
+        "#Gastromaquia",
+        "#desserts"
+      ]
+    },
+    {
+      "attribution": [
+        {
+          "source_id": "facebook",
+          "url": "https://www.facebook.com/pages/Venta-El-Busc%C3%B3n/154979251214463"
+        },
+        {
+          "source_id": "openstreetmap",
+          "url": "http://www.openstreetmap.org/browse/node/3976300419"
+        }
+      ],
+      "name": "Venta El Buscón",
+      "coordinates": {
+        "latitude": 40.416107,
+        "longitude": -3.7016211
+      },
+      "snippet": "Amazing wines.",
+      "score": 4.43966884417892,
+      "eatingout_score": 5.16624944025202,
+      "images": [
+        {
+          "attribution": {
+            "attribution_link": "http://www.touristeye.com/Venta-El-Busc%C3%B3n-Madrid-p-613956",
+            "attribution_text": "TouristEye",
+            "format": "{attribution}"
+          },
+          "sizes": {
+            "medium": {
+              "url": "http://pic.triposo.com/ios/tripe_4/pic/T__e0df7c29a785.jpg",
+              "width": 360,
+              "bytes": 32590,
+              "height": 640
+            },
+            "thumbnail": {
+              "url": "http://pic.triposo.com/ios/tripe_4/thumb/T__e0df7c29a785.jpg",
+              "width": 108,
+              "bytes": 6722,
+              "height": 192
+            },
+            "original": {
+              "url": "http://touristeye-photos.s3.amazonaws.com/places/web/525b4e17383e0.jpg",
+              "width": 1200,
+              "bytes": 344842,
+              "height": 2133
+            }
+          },
+          "owner": "TouristEye",
+          "source_url": "http://touristeye-photos.s3.amazonaws.com/places/web/525b4e17383e0.jpg",
+          "source_id": "touristeye",
+          "owner_url": "http://www.touristeye.com/Venta-El-Busc%C3%B3n-Madrid-p-613956"
+        }
+      ],
+      "location_id": "Madrid",
+      "id": "T__e0df7c29a785",
+      "hashtags": [
+        "#VentaElBuscón"
+      ]
+    }
+  ]
+}
